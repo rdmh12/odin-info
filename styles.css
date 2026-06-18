@@ -1,0 +1,24 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: #444;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+a {
+  color: #305cde;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #a47dab;
+}
